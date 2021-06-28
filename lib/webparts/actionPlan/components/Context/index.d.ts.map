@@ -1,0 +1,1 @@
+{"version":3,"file":"index.d.ts","sourceRoot":"","sources":["../../../../../src/webparts/actionPlan/components/Context/index.tsx"],"names":[],"mappings":"AAEA,oBAAY,QAAQ,GAAG;IACnB,QAAQ,EAAE,KAAK,CAAC,GAAG,CAAC,CAAC;IACrB,WAAW,EAAE,CAAC,IAAI,EAAE,EAAE,KAAK,IAAI,CAAC;IAGhC,WAAW,EAAE,OAAO,CAAC;IACrB,cAAc,EAAE,CAAC,IAAI,KAAA,KAAK,IAAI,CAAC;CAClC,CAAC;AAEF,eAAO,MAAM,IAAI,mCAOf,CAAC"}
